@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alex Evans]]></title>
+        <description><![CDATA[Alex Evans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 05:14:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Alex is the Vice President and one of the principals of Corvus Commercial Realty.  He is a true native of Jacksonville and has been in the commercial real estate industry since 2006.  During this time, Mr. Evans has represented clients in successfully negotiating thousands of transactions for over 1 million square feet and almost $100,000,000 in total gross consideration.  Mr. Evans works with a wide variety of clients, ranging from owner-user purchasers, investor purchasers, individual sellers, leasing for landlords and tenants with a focus primarily on office and industrial zoned properties.  Mr. Evans has been an important component in the development, management, and success of a series of locally owned restaurants and is second generation to the commercial real estate profession.  Prior to working in commercial brokerage, Mr. Evans worked in mortgage finance as a loan originator for First Residential Mortgage.  Mr. Evans has most recently been focused on working in partnership to locate and analyze large multi-tenant office assets for investors.</p>]]></description>
+            <link>undefinedf442d6f2-d225-43ff-b9e8-e7ef090a083c/index.html</link>
+            <guid isPermaLink="false">f442d6f2-d225-43ff-b9e8-e7ef090a083c</guid>
+            <pubDate>Fri, 26 Feb 2016 05:14:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
