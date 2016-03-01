@@ -1,7 +1,8 @@
 name: Alex Evans
 favicon: null
-layout_spectrum: 0.9622984195593745
-typography_spectrum: 0.07746029016561806
+layout_spectrum: 0.62384
+typography_spectrum: 0.31746
+title: Brokering Excellence - Commercial Real Estate
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5781992301344872
+    - '#ffffff'
+    - '#3593d1'
+    - '#606261'
+    - '#a4a4a4'
+    - '#77c2ec'
+  brandStrength: 0.625
   lightness: 0.21501228585839272
-  saturation: 0.0681187475565821
-  rhythmicContrast: 0.7296411616262048
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
